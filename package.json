@@ -1,0 +1,26 @@
+{
+  "name": "junction",
+  "version": "1.0.0",
+  "description": "Our first open source type project, expanding a humanist sans-serif typeface, Junction.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giladgray/junction.git"
+  },
+  "keywords": [
+    "league",
+    "moveable",
+    "type",
+    "font",
+    "webfont"
+  ],
+  "author": "The League of Moveable Type",
+  "license": "OFL",
+  "bugs": {
+    "url": "https://github.com/giladgray/junction/issues"
+  },
+  "homepage": "https://github.com/giladgray/junction"
+}
