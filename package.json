@@ -2,7 +2,12 @@
   "name": "junction",
   "version": "1.0.0",
   "description": "Our first open source type project, expanding a humanist sans-serif typeface, Junction.",
-  "main": "index.js",
+  "files": [
+    "Junction-bold.otf",
+    "Junction-light.otf",
+    "Junction-regular.otf",
+    "webfonts"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
